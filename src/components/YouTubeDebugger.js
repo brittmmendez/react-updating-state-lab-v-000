@@ -39,3 +39,5 @@ class YouTubeDebugger extends React.Component {
     );
   }
 }
+
+export default YouTubeDebugger;
